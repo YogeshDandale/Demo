@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="400ad21a-82e9-492a-be55-0f09e93f7c97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/IdeaProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/src/main/java/com/ass/app/Controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/src/main/java/com/ass/app/Exception/ExceptionResourse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/src/main/java/com/ass/app/Exception/GlobalExceptionHamdale.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/src/main/java/com/ass/app/Exception/ProductNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/src/main/java/com/ass/app/PracticeSbApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/src/main/java/com/ass/app/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/src/main/java/com/ass/app/model/Addresses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/src/main/java/com/ass/app/model/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/src/main/java/com/ass/app/repository/RepositroyI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/src/main/java/com/ass/app/service/ServiceI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/src/main/java/com/ass/app/serviceImpl/ServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practiceSB/src/test/java/com/ass/app/PracticeSbApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbcrudproject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbcrudproject/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbcrudproject/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbcrudproject/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbcrudproject/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbcrudproject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbcrudproject/src/main/java/com/example/demo/SbCrudProjectApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbcrudproject/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sbcrudproject/src/test/java/com/example/demo/SbCrudProjectApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GtXvtFylf4VE3fFwf3ub5AicSr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Employee2Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.task.management.system.app.Employee2Application" />
+      <module name="employee2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.task.management.system.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Employee2Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="400ad21a-82e9-492a-be55-0f09e93f7c97" name="Changes" comment="" />
+      <created>1667209089531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667209089531</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
