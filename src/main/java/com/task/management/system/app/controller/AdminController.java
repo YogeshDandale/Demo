@@ -86,7 +86,7 @@ public class AdminController {
 
         TimeEstimation timeEstimation =adminService.getTotalTimeSpend(taskId);
         model.addAttribute("timeEstimation", timeEstimation);
-		System.out.println("Hello");
+		
         return "total_time_spend";
     }
 }
