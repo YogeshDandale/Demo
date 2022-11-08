@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
-      <module fileurl="file://$PROJECT_DIR$/coding/employee2.iml" filepath="$PROJECT_DIR$/coding/employee2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker-hello-word-app.iml" filepath="$PROJECT_DIR$/docker-hello-word-app.iml" />
     </modules>
   </component>
 </project>
